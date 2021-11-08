@@ -12,4 +12,4 @@ $ pip2 install futures
 
 $ cd ig
 
-$ python2 insta.py
+$ python2 insta.pyc
